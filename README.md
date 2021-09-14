@@ -14,7 +14,7 @@ Continue to add M5Stack Atom Matrix functionality:
 
 ----------------
 
-https://github.com/Bodmer/TFT_eSPI/issues/1328
+https://github.com/Bodmer/TFT_eSPI/issues/1328                    
 Am I implementing this? :o    Will someone better implement it and add a pull request? Hopefully...
 
 
@@ -22,6 +22,6 @@ Am I implementing this? :o    Will someone better implement it and add a pull re
 
 
 
-https://github.com/atomic14/m5stack-core2-audio-monitor/issues/2
+https://github.com/atomic14/m5stack-core2-audio-monitor/issues/2                  
 Check back that my audio monitor conversion's OK for the author.
 
