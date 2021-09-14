@@ -1,5 +1,6 @@
 # Notes-for-projects.
 Stuff to do that isn't in GitHub's project pages.
+###########
 
 https://github.com/Sarah-C/AtomMatrixSCroll-WIP
 Continue to add M5Stack Atom Matrix functionality:
