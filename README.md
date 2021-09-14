@@ -2,8 +2,8 @@
 Stuff to do that isn't in GitHub's project pages.
 ----
 
-https://github.com/Sarah-C/AtomMatrixSCroll-WIP
-Continue to add M5Stack Atom Matrix functionality:
+https://github.com/Sarah-C/AtomMatrixSCroll-WIP                
+Continue to add M5Stack Atom Matrix functionality:                 
 1. Add scrolling features like speed, "ping-pong" forward/backward. Pause at location (via an unused ASCII char followed by time?).
 2. 24bit user defined characters.
 3. Animation for a character.
