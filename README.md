@@ -12,9 +12,15 @@ Continue to add M5Stack Atom Matrix functionality:
 * B: Enable scroller to be placed at specific Y co-ord for tall matrices.
 * C. Ensure "serpentine" display mode works.
 
+----------------
 
 https://github.com/Bodmer/TFT_eSPI/issues/1328
 Am I implementing this? :o    Will someone better implement it and add a pull request? Hopefully...
+
+
+----------------
+
+
 
 https://github.com/atomic14/m5stack-core2-audio-monitor/issues/2
 Check back that my audio monitor conversion's OK for the author.
