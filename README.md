@@ -7,7 +7,7 @@ Continue to add M5Stack Atom Matrix functionality:
 2. 24bit user defined characters.
 3. Animation for a character.
 
-4: Expand to ANY Neo-Pixel board.......
+4. Expand to ANY Neo-Pixel board.......
 4. A: Implement multi height fonts.
 4. B: Enable scroller to be placed at specific Y co-ord for tall matrices.
 4. C. Ensure "serpentine" display mode works.
