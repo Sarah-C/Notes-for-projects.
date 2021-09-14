@@ -6,7 +6,8 @@ https://github.com/Sarah-C/AtomMatrixSCroll-WIP
 Continue to add M5Stack Atom Matrix functionality:                 
 1. Add scrolling features like speed, "ping-pong" forward/backward. Pause at location (via an unused ASCII char followed by time?).
 2. 24bit user defined characters.
-3. Animation for a character.
+3. Put fonts in PROGMEM and adjust relevant functions for pgm_read_byte.
+4. Animation for a character.
 
 4. Expand to ANY Neo-Pixel board.......
 * A: Implement multi height fonts.
