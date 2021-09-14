@@ -16,6 +16,7 @@ Continue to add M5Stack Atom Matrix functionality:
 ----------------
 
 https://github.com/Bodmer/TFT_eSPI/issues/1328                    
+Core Grey/Core 2 backlight initialisation.        
 Am I implementing this? :o    Will someone better implement it and add a pull request? Hopefully...
 
 
