@@ -8,9 +8,9 @@ Continue to add M5Stack Atom Matrix functionality:
 3. Animation for a character.
 
 4: Expand to ANY Neo-Pixel board.......
-a. Implement multi height fonts.
-b. Enable scroller to be placed at specific Y co-ord for tall matrices.
-c. Ensure "serpentine" display mode works.
+4. A: Implement multi height fonts.
+4. B: Enable scroller to be placed at specific Y co-ord for tall matrices.
+4. C. Ensure "serpentine" display mode works.
 
 
 https://github.com/Bodmer/TFT_eSPI/issues/1328
