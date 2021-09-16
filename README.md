@@ -28,3 +28,9 @@ Am I implementing this? :o    Will someone better implement it and add a pull re
 https://github.com/atomic14/m5stack-core2-audio-monitor/issues/2                  
 Check back that my audio monitor conversion's OK for the author.
 
+
+-----------------
+
+
+https://github.com/iyawat/Line-RoverC/issues/1                
+Question about serial/serial comms.
